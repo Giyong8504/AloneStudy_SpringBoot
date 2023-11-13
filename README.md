@@ -13,3 +13,4 @@
 - Test용 Controller, Service, Memeber, Repository 클래스 작성
 - Test를 위한 더미데이터를 넣을 SQL 작성
 - 포스트맨으로 테스트
+- JUnit 테스트
